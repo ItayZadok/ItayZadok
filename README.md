@@ -1,22 +1,28 @@
-## Hi! I'm Itay 👋
+# 👋 Hi! I'm Itay
 
-I'm a high school student, working on becoming a smart person
+🎓 I'm a high school student, working on becoming a smarter person.
 
-### The tools I'm experienced with:
-* JS, Java, HTML, CSS, Python, C
-* Assembly, Git, Docker
+## 🛠️ The tools I'm experienced with:
 
-### I'm currently working on:
-* Gun-equipped drone
-* FRC programming
+- JavaScript, Java, HTML, CSS, Python, C
+- Assembly, Git, Docker
 
-### Hobbies:
-* Playing Guitar
-* Making video games
-* Teaching others
+## 🚀 I'm currently working on:
 
-### Projects:
-* CelesteLib - an assembly game engine
-* Mercury - a lightweight fullstack form app
-* Atherium - a MC MMORPG server
-* An MMORPG made in python
+- Nerf gun-equipped drone
+- FRC Programming
+
+## 🎨 Hobbies:
+
+- Playing Guitar
+- Making Video Games
+- Teaching Others
+- Drawing & Making Pixel Art
+
+## 🌌 Projects:
+
+- **CelesteLib** - A game engine written in assembly
+- **Mercury** - A lightweight full-stack forms app
+- **Atherium** - A Minecraft MMORPG server
+- **Python MMORPG** - An MMORPG written in Python
+- **Bob's Adventure** - A turn-based puzzle game
