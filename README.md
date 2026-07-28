@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Itay
 
-🎓 I'm a high school student, working on becoming a smarter person.
+I'm a high school student, working on becoming a smarter person.
 
 ## 🛠️ The tools I'm experienced with:
 
