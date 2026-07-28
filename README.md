@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi! I'm Itay 👋
 
-<!--
-**ItayZadok/ItayZadok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student, working on becoming a smart person
 
-Here are some ideas to get you started:
+### The tools I'm experienced with:
+* JS, Java, HTML, CSS, Python, C
+* Assembly, Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm currently working on:
+* Gun-equipped drone
+* FRC programming
+
+### Hobbies:
+* Playing Guitar
+* Making video games
+* Teaching others
+
+### Projects:
+* CelesteLib - an assembly game engine
+* Mercury - a lightweight fullstack form app
+* Atherium - a MC MMORPG server
+* An MMORPG made in python
