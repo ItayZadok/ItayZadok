@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Itay
 
-I'm a high school student, working on becoming a smarter person.
+I'm a high school student working on becoming a smarter person.
 
 ## 🛠️ The tools I'm experienced with:
 
@@ -19,10 +19,10 @@ I'm a high school student, working on becoming a smarter person.
 - Teaching Others
 - Drawing & Making Pixel Art
 
-## 🌌 Projects:
+## 👾 Projects:
 
 - **CelesteLib** - A game engine written in assembly
-- **Mercury** - A lightweight full-stack forms app
+- **Mercury** - A lightweight frc full-stack scouting app
 - **Atherium** - A Minecraft MMORPG server
 - **Python MMORPG** - An MMORPG written in Python
 - **Bob's Adventure** - A turn-based puzzle game
